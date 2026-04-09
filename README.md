@@ -13,7 +13,7 @@ Dataset:
 	Rows: ~180
 	Columns: 15
 
-Key variables include
+	Key variables include
 
 	*Date, day of week, location
 	*Weather + temperature
@@ -27,7 +27,7 @@ Key variables include
 
 Methods:
 
-The analysis includes
+	The analysis includes
 
 	*Exploratory Data Analysis
 	*Summary statistics
