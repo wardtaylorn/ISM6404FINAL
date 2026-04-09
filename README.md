@@ -1,19 +1,19 @@
 # ISM6404FINAL
 Lorelai B., Sarah P., Kristen W., Taylor W.
 
-Project Overview
+Project Overview:
 
 This project analyzes daily sales, customer behavior, and profitability for a mobile food truck operating across multiple locations from March–August 2025. The goal is to identify which factors most strongly influence customer turnout and profit, and to build regression models that support forecasting and business decision‑making.
 
 The analysis follows the same structure as a previous retail‑store analytics project but is fully adapted to the food‑truck dataset.
 
-Dataset
+Dataset:
 
 File: ism6404_food_truck.csv  
 Rows: ~180
 Columns: 15
 
-Key variables include:
+Key variables include
 
 *Date, day of week, location
 
@@ -31,9 +31,9 @@ Key variables include:
 
 This dataset allows for both descriptive and predictive analytics.
 
-Methods
+Methods:
 
-The analysis includes:
+The analysis includes
 
   *Exploratory Data Analysis
 
@@ -59,7 +59,7 @@ The analysis includes:
     -Profit vs Customers
     -Faceted trends by day of week
 
-Key Findings
+Key Findings:
 
 *Temperature has a weak relationship with customer turnout.
 
