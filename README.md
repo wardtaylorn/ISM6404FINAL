@@ -15,29 +15,44 @@ Columns: 15
 
 Key variables include:
 
-  *Date, day of week, location
-  *Weather + temperature
-  *Event indicators
-  *Competitors
-  *Customers
-  *Items sold (tacos, burritos, quesadillas, drinks)
-  *Revenue, daily cost, profit
+*Date, day of week, location
+
+*Weather + temperature
+
+*Event indicators
+
+*Competitors
+
+*Customers
+
+*Items sold (tacos, burritos, quesadillas, drinks)
+
+*Revenue, daily cost, profit
 
 This dataset allows for both descriptive and predictive analytics.
 
 Methods
 
 The analysis includes:
+
   *Exploratory Data Analysis
+
   *Summary statistics
+  
   *Correlation analysis
+  
   *Visualizations (scatterplots, faceted plots)
+  
   *Regression Modeling
+  
   *Simple Linear Regression
     -customers ~ temperature
+    
   *Multiple Regression
     -profit ~ temperature + customers
+    
   *10‑fold Cross‑Validation (caret)
+  
   *Visualizations
     -Customers vs Temperature
     -Profit vs Temperature
@@ -47,9 +62,13 @@ The analysis includes:
 Key Findings
 
 *Temperature has a weak relationship with customer turnout.
+
 *Profit is driven primarily by customer count, not weather.
+
 *Special events and high‑traffic locations create noticeable spikes.
+
 *Weekends outperform weekdays across most locations.
+
 *Cross‑validation confirms that temperature adds little predictive power.
 
 R code by Taylor
