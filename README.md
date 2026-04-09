@@ -53,6 +53,8 @@ Key Findings:
 	*Weekends outperform weekdays across most locations.
 	*Cross‑validation confirms that temperature adds little predictive power.
 
-R code by Taylor
-in collaboration with Lorelai's Python code in Datacamp
-Report by Kristen and Sarah
+Thank you!
+
+	R code by Taylor
+	in collaboration with Lorelai's Python code in Datacamp
+	Report by Kristen and Sarah
