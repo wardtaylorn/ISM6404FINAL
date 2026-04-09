@@ -3,9 +3,9 @@ Lorelai B., Sarah P., Kristen W., Taylor W.
 
 Project Overview:
 
-	This project analyzes daily sales, customer behavior, and profitability for a mobile food truck operating across multiple locations from March–August 2025. The goal is to identify which factors most strongly influence customer turnout and profit, and to build regression models that support forecasting and business decision‑making.
+This project analyzes daily sales, customer behavior, and profitability for a mobile food truck operating across multiple locations from March–August 2025. The goal is to identify which factors most strongly influence customer turnout and profit, and to build regression models that support forecasting and business decision‑making.
 
-	The analysis follows the same structure as a previous retail‑store analytics project but is fully adapted to the food‑truck dataset.
+The analysis follows the same structure as a previous retail‑store analytics project but is fully adapted to the food‑truck dataset.
 
 Dataset:
 
@@ -27,7 +27,7 @@ Key variables include
 
 Methods:
 
-	The analysis includes
+The analysis includes
 
 	*Exploratory Data Analysis
 	*Summary statistics
