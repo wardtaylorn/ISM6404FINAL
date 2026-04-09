@@ -16,17 +16,11 @@ Columns: 15
 Key variables include
 
 *Date, day of week, location
-
 *Weather + temperature
-
 *Event indicators
-
 *Competitors
-
 *Customers
-
 *Items sold (tacos, burritos, quesadillas, drinks)
-
 *Revenue, daily cost, profit
 
 This dataset allows for both descriptive and predictive analytics.
